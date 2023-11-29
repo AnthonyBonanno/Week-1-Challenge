@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* changed header from a class to an element, this was repeated for all classes starting with "header" */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,11 +42,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Applies a margin and a box that has no breaks before or after the lines */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Applies a font size of 16 for all paragraph elements */
 p {
     font-size: 16px;
 }
@@ -122,6 +125,7 @@ aside {
     max-height: 200px;
 }
 
+/* merged the 3 seperate classes into a common class to remove duplicates */
 .online-business h2 {
     margin-bottom: 20px;
     font-size: 36px;
