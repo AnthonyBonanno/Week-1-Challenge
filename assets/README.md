@@ -41,3 +41,8 @@ Here is a list on the things that I learnt throughout this challenge:
 >- How alt attributes can make the site more accessible
 >- How to simplify the CSS and HTML code through the use of element selectors
 
+## Example Screenshots of Changes Made
+
+![alt text](https://github.com/AnthonyBonanno/Week-1-Challenge/blob/main/assets/images/Capture1.PNG)
+
+![alt text](https://github.com/AnthonyBonanno/Week-1-Challenge/blob/main/assets/images/Capture2.PNG)
